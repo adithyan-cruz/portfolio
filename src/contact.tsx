@@ -158,7 +158,7 @@ export default function ContactPage() {
                                 </div>
                                 <div>
                                     <p className="font-label-mono text-label-mono uppercase text-on-surface-variant mb-2">Call Me</p>
-                                    <a className="font-headline-md text-headline-md hover:text-neon-lime transition-colors block" href="tel:+919876543210">+91 6238 209 047</a>
+                                    <a className="font-headline-md text-headline-md hover:text-neon-lime transition-colors block" href="tel:+919876543210">+91 8590 171 287</a>
                                 </div>
                             </div>
 
