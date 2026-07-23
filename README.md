@@ -37,12 +37,3 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (v16 or higher recommended)
 - [MongoDB](https://www.mongodb.com/) (Local or Atlas URI)
 
-## Build for Production
-
-To create a production build for the frontend:
-
-```bash
-npm run build
-```
-
-You can then serve the output from the `dist` folder.
