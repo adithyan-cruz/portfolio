@@ -10,7 +10,7 @@ A modern, responsive portfolio website built with React and Vite. The frontend f
 "Where Code Meets Clean Vibes" - Bridging the gap between imagination and execution.
 
 ### Connect with me:
-- **GitHub:** [adithyan-cruz](https://github.com/adithyan-cruz)
+- **GitHub:** [adithyan-cruz](https://github.com/adithyanbr)
 - **LinkedIn:** [adithyan-b-r](https://linkedin.com/in/adithyan-b-r)
 - **Twitter / X:** [@AdithyanBr](https://twitter.com/AdithyanBr)
 
